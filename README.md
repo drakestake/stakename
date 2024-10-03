@@ -1,0 +1,2 @@
+# stakename
+stakecrypto
